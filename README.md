@@ -13,10 +13,10 @@
 
 > This is a quoting text.
 
-This is `quating code` in between.
+This is `quoting code` in between.
 
 ```
-This is quating a code
+This is quoting a code
 in several lines.
 ```
 
@@ -47,3 +47,8 @@ This is a task list :
 - [ ] Third todo.
 <br><br>
 This how we add emoji :+1: :smile: :innocent:
+
+
+| Heading | Second Heading |
+| ------- | -------------- |
+| 1'st row 1'st col | 1'st row 2'nd col |
