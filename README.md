@@ -47,4 +47,4 @@ This is a task list :
 - [ ] Second todo.
 - [ ] Third todo.
 \
-This how we add emoji :+1: :+2: :+3:
+This how we add emoji :+1: :smile: :innocent:
