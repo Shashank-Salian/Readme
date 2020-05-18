@@ -35,16 +35,15 @@ Here is a list of items :\
 - This is the first list.
 - This is the second list.
 - And this is third.
-\
+<br><br>
 This is a ordered list :\
 1. This is the first list.
 2. This is the second list.
 3. And this is third.
-\
-
+<br><br>
 This is a task list :
 - [X] First todo.
 - [ ] Second todo.
 - [ ] Third todo.
-\
+<br><br>
 This how we add emoji :+1: :smile: :innocent:
