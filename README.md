@@ -29,14 +29,14 @@ function hello() {
   }
 }
 ```
-This is a [link to this repo](https://github.com/Shashank-Salian/Readme)\
+This is a [link to this repo](https://github.com/Shashank-Salian/Readme)
 
-Here is a list of items :\
+Here is a list of items :
 - This is the first list.
 - This is the second list.
 - And this is third.
 <br><br>
-This is a ordered list :\
+This is a ordered list :
 1. This is the first list.
 2. This is the second list.
 3. And this is third.
