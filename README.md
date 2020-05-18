@@ -52,5 +52,10 @@ This how we add emoji :+1: :smile: :innocent:
 | Heading | Second Heading |
 | ------- | -------------- |
 | 1'st row 1'st col | 1'st row 2'nd col |
-| 2'nd row 1'st col | 2'nd row 2'st col |
+| 2'nd row 1'st col | 2'nd row 2'nd col |
+| 3'rd row 1'st col | 3'rd row 2'nd col |
 
+| Left aligned | Center aligned | Right aligned |
+| :-- | :--: | --: |
+| This is a left aligned row | This is a center aligned row | This is a right aligned row |
+| This is a 2'nd left aligned row | This is a 2'nd center aligned row | This is a 2'nd right aligned row |
