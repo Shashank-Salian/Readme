@@ -9,7 +9,7 @@
 *This is Italic text*\
 ~~This is strike through text~~\
 **This is bold and _nested italic_**\
-***This is all bold and italic***\
+***This is all bold and italic***
 
 > This is a quoting text.
 
@@ -52,3 +52,5 @@ This how we add emoji :+1: :smile: :innocent:
 | Heading | Second Heading |
 | ------- | -------------- |
 | 1'st row 1'st col | 1'st row 2'nd col |
+| 2'nd row 1'st col | 2'nd row 2'st col |
+
