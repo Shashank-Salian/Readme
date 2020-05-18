@@ -44,7 +44,7 @@ This is a ordered list :\
 
 This is a task list :
 - [X] First todo.
-- [] Second todo.
-- [] Third todo.
+- [ ] Second todo.
+- [ ] Third todo.
 \
 This how we add emoji :+1: :+2: :+3:
