@@ -5,11 +5,11 @@
 ##### Heading h5
 ###### Heading h6
 
-**This is a bold text**\n
-*This is Italic text*\n
-~~This is strike through text~~\n
-**This is bold and _nested italic_**\n
-***This is all bold and italic***\n
+**This is a bold text**\
+*This is Italic text*\
+~~This is strike through text~~\
+**This is bold and _nested italic_**\
+***This is all bold and italic***\
 
 > This is a quoting text.
 
