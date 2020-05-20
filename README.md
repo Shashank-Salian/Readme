@@ -24,7 +24,7 @@ in several lines.
 function hello() {
   if(true){
     console.log("This is code highlighting.");
-  else {
+  } else {
     console.log("Hiii....");
   }
 }
