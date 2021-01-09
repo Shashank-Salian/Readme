@@ -60,4 +60,8 @@ This how we add emoji :+1: :smile: :innocent:
 | This is a left aligned row | This is a center aligned row | This is a right aligned row |
 | This is a 2'nd left aligned row | This is a 2'nd center aligned row | This is a 2'nd right aligned row |
 
+<p align="center">
+  **This is how we align text center**
+</p>
+
 <img src="Tom.jpg" width="250" height="150" />
