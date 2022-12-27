@@ -73,4 +73,4 @@ Here is a list of items :
   **This is how we align text center**
 </p>
 
-<img src="Tom.jpg" width="250" height="150" alt="Tom" />
+<img src="Tom.jpg" width="300" height="175" alt="Tom" />
