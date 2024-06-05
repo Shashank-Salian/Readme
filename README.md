@@ -74,4 +74,8 @@ Here is a list of items :
   **This is how we align text center**
 </p>
 
+<p>
+This is the changes done by Shashank
+</p>
+
 <img src="Tom.jpg" width="300" height="175" alt="Tom" />
